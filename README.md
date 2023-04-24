@@ -1,1 +1,1 @@
-O projeto locadora de carros  é  uma  API  Laravel  do parte de  back-end ésta funcional pode ser testado utilizando postman no momento estou criando um campo de login com autenticação utilizando JWT e para finalizar a aplicação vou utilizar Vue.js para desenvolver o front-end da aplicação
+O projeto locadora de carros  é  uma  API  Laravel  a parte de  back-end ésta funcional pode ser testado utilizando postman no momento estou criando um campo de login com autenticação utilizando JWT e para finalizar a aplicação vou utilizar Vue.js para desenvolver o front-end da aplicação
